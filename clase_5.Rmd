@@ -2,7 +2,7 @@
 title: "Clase 5. Manipulación de datos"
 author: "SVR"
 date: "22-03-2022"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
